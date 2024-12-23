@@ -1,0 +1,11 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+CtoCpp12Aha
