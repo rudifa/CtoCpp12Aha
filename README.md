@@ -23,11 +23,12 @@ g++ -std=c++20 main.cpp -o CtoCpp12Aha
 ```bash
 mkdir -p build && cd build
 cmake ..
+make
 ```
 
 ## Running with CMake
 
 ```bash
-./build/CtoCpp12Aha # from build/ directory
+./CtoCpp12Aha # from build/ directory
 build/CtoCpp12Aha # from project root directory
 ```
