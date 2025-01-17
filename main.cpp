@@ -46,7 +46,7 @@ void raiiFunctionDemo()
     try
     {
         File f("demo.txt");
-        f.write("Hello, RAII!");
+        f.write("Hello, RAII!\n");
         std::cout << "File written successfully\n";
     }
     catch (const std::exception &e)
